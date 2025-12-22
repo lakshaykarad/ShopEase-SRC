@@ -4,8 +4,6 @@
 It demonstrates a clean and scalable architecture using **MVVM** and **Clean Architecture** principles.  
 
 > ⚠️ **Note:**  
-> The **main source code** is private for security reasons.  
-> This repository only showcases the **UI design and structure** of the app for portfolio and learning purposes.  
 > Please do **not copy, reuse, or redistribute** any part of this project.
 
 ---
