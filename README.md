@@ -69,7 +69,6 @@ The app uses data from the **Platzi Fake Store API**
 
 ## 🗒️ Important Notes
 
-- The **main app source** is **private** — this repository is only for UI presentation.  
 - This project is for **portfolio and learning purposes**.  
 - Please **do not copy or redistribute** the content.  
 
