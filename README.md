@@ -3,9 +3,6 @@
 **ShopEase** is a modern and beautifully designed shopping app built with **Kotlin** and **Jetpack Compose**.  
 It demonstrates a clean and scalable architecture using **MVVM** and **Clean Architecture** principles.  
 
-> ⚠️ **Note:**  
-> Please do **not copy, reuse, or redistribute** any part of this project.
-
 ---
 
 ## ✨ Main Features
